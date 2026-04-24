@@ -1,5 +1,7 @@
 Seções
-<head>Informações não exibidas ao usuário. Ex: "<Meta> <Title> <Style>"</head>
+<head>Informações não exibidas ao usuário. Ex: Meta, Title, Style </head>
+<Body>Conteúdo da página que será exibido para o usuário</Body>
+
 
 Tags
 <p>Parágrafo</p>
